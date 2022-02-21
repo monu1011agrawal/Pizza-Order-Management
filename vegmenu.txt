@@ -1,0 +1,12 @@
+ S.No |     PIZZA NAME		    |	PRICE
+------|-----------------------------|-----------------
+  1.  |   Veg Extravanganza         |    450/- 
+  2.  |   Farmhouse                 |    395/-
+  3.  |   Peppy Paneer              |    395/-
+  4.  |   Veggie Paradise           |    365/-
+  5.  |   Deluxe Veg.Combo          |    360/-  
+      |     -->Fresh Veggie Pizza   |
+      |     -->Garlic Bread         |
+      |     -->Pepsi                |
+      |     -->Choco lava cake      |
+---------------------------------------------------------

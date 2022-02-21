@@ -1,0 +1,12 @@
+S.No |	    PIZZA NAME		    |	PRICE
+-----|------------------------------|-----------------
+ 1.  |	Pepper Barbecue Chicken     |    335\-
+ 2.  |	Chicken Sausage             |    305\-
+ 3.  |	Non Veg Supreme             |    570\-
+ 4.  |	Chicken Dominator           |    570\-
+ 5.  |	Deluxe Non Veg.Combo        |    560/-  
+     |	 -->Fresh Veggie Pizza      |
+     |	-->Garlic Bread             |
+     |	-->Pepsi                    |
+     |	-->Choco lava cake          |
+------------------------------------------------------
